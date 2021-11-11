@@ -7,7 +7,7 @@ I ran the following command, _a lot_ in my terminal.
 
 `pbpaste | highlight -O rtf --style github --syntax {lang} | pbcopy`
 
-All the command does is pipe whatever is in your clipboard into the [highlight](http|//www.andre-simon.de/doku/highlight/en/highlight.php),
+All the command does is pipe whatever is in your clipboard into the [highlight](http://www.andre-simon.de/doku/highlight/en/highlight.php),
 then back to your clipboard. Quite simple.
 
 <br/>
@@ -21,7 +21,7 @@ All you have to do is open alfred, type 'highlight' followed by a space and the 
 
 ## Prerequisites
 
-You must have [highlight](http|//www.andre-simon.de/doku/highlight/en/install.php) installed on your computer. If you are a mac user, you can install it using Homebrew (`brew install highlight`).
+You must have [highlight](http://www.andre-simon.de/doku/highlight/en/install.php) installed on your computer. If you are a mac user, you can install it using Homebrew (`brew install highlight`).
 
 ## Supported Languages
 
